@@ -1,3 +1,9 @@
+Git log awesome sauce:
+git log --pretty=oneline --abbrev-commit --graph --decorate --all
+This creates an alias named lol to do the above:
+git config --global alias.lol "log -- pretty=oneline --abbrev-commit --graph --decorate --all"
+
+
 git reset [FILES] will take files out of staging area
 If you have something in staging and you want to remove it from staging, use reset
 
