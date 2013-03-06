@@ -1,3 +1,16 @@
+
+
+Working area -> staging area -> repo
+git add [file] moves files from working area to staging area
+git commit readies staging area for pushing?
+git push saves changes to the repo
+
+diff shows the difference between working and staging versions
+git diff --staged tells difference between staging and repo
+
+
+Line ending differences between Windows/Linux
+
 #Force files to be LF during 'add' - for Mac and Linux
 git config --global core.autocrlf input
 
