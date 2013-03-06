@@ -1,3 +1,11 @@
+git reset [FILES] will take files out of staging area
+If you have something in staging and you want to remove it from staging, use reset
+
+
+You can do this to amend the last commit message if you made a typo:
+git commit --amend -m "Fixed typo"
+
+
 git add .  will add everything recursively under current directory
 
 
