@@ -1,3 +1,12 @@
+To create a branch, use
+git branch [name]
+
+To checkout a branch, use
+git checkout [branch]
+
+You can checkout a commit. THIS IS CALLED DETACHED HEAD STATE FOR A REASON
+
+
 git will not submit folders with nothing in them. Can add a hidden file or a readme.
 
 
