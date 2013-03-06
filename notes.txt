@@ -1,3 +1,4 @@
+git add .  will add everything recursively under current directory
 
 
 Working area -> staging area -> repo
