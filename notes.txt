@@ -1,3 +1,11 @@
+git will not submit folders with nothing in them. Can add a hidden file or a readme.
+
+
+git checkout 07192f9 -- file1.txt
+Will check out just file1.txt from commit 07192f9
+can use git checkout HEAD -- file1.txt to get file from HEAD
+
+
 git rm [file] removes a file from staging
 After removing files from current directory, you can use
 git add -u .
