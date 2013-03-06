@@ -1,3 +1,9 @@
+git rm [file] removes a file from staging
+After removing files from current directory, you can use
+git add -u .
+to automatically update the staging area looking for deleted files
+
+
 Git log awesome sauce:
 git log --pretty=oneline --abbrev-commit --graph --decorate --all
 This creates an alias named lol to do the above:
