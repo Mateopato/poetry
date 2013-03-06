@@ -1,6 +1,10 @@
 Title!
 
+<<<<<<< HEAD
 Look at this change!!!!!!!!
+=======
+Whoa, that's not what this should say.
+>>>>>>> feature
 
 Et tu Brute?
 
